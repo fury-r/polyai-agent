@@ -2200,7 +2200,6 @@ Don't forget to give the project a star! Thanks again!
 - [Commander.js](https://github.com/tj/commander.js/) — CLI framework
 - [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) — README template
 - [Shields.io](https://shields.io) — badges
-- [Choose an Open Source License](https://choosealicense.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
